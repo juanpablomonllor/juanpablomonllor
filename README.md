@@ -2,7 +2,7 @@
 
 # Juan Pablo Monllor
 
-**Salud digital · Análisis funcional · Ciencia de Datos e IA**
+**Salud digital · Análisis funcional · Ciencia de Datos e IA**<br>
 **Digital Health · Functional Analysis · Data Science & AI**
 
 📍 Río Grande, Tierra del Fuego, Argentina · 🌎 Remoto / Remote · Freelance
